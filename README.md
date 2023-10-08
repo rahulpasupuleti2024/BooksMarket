@@ -25,3 +25,18 @@ JSON Web Tokens (JWT): Used for user authentication and authorization.
 To run the Books App locally, follow these steps:
 
 Clone the repository:https://github.com/rahulpasupuleti2024/BooksMarket/
+### HomePage with BooksDetails
+![Homepage2](https://github.com/rahulpasupuleti2024/BooksMarket/assets/91516898/40b2912d-e871-4f27-88a4-6a855babce21)
+
+### Book Details With Review
+![Bookpage](https://github.com/rahulpasupuleti2024/BooksMarket/assets/91516898/9c3e036e-a309-4815-8b21-9b6a54b234db)
+
+### Login Page
+![Login23](https://github.com/rahulpasupuleti2024/BooksMarket/assets/91516898/8724472d-05ac-4be0-bd2b-0b5ed4bf2da6)
+
+### Register Page
+![Register4](https://github.com/rahulpasupuleti2024/BooksMarket/assets/91516898/8c427cde-e219-4d79-96a3-a3d82ad7856a)
+
+
+
+
